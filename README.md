@@ -1,4 +1,5 @@
 # Loops_E_Arrays_Java
+
 ESTRUTURAS DE REPETIÇÃO
 🔸 O real poder dos computadores está na sua habilidade para repetir uma operação ou uma série de operações várias vezes (loop).
 
